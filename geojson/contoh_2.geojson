@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+
+"features": [
+{ "type": "Feature", "properties": { "DESA": "Contoh" }, 
+"geometry": { "type": "Polygon", "coordinates":  [[[108.71235,-6.83027],[108.68019,-6.8753],[108.71658,-6.91075],[108.75435,-6.87394],[108.7687,-6.83391],[108.71235,-6.83027]]]}}
+
+]
+}
